@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=100px height=100px src="./assets/img/logo-dark.png" alt="Project logo"></a>
+ <img width=300px height=100px src="./src/img/logo.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center"> forkify Js Project </h3>
@@ -17,8 +17,6 @@
 ---
 
 <p align="center"> forkify Js Project  Built With JavaScript - Forkify API 
-
-    <br> 
 </p>
 
 ## 📝 Table of Contents
@@ -34,7 +32,7 @@
 ## 🧐 About <a name = "about"></a>
 
 forkify Js Project To get Recipes And add Recipes And Bookmarked 
-  <br> .
+  <br> 
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
